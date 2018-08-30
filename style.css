@@ -1,0 +1,43 @@
+.header {
+  text-align: center;
+  background-image: url("./pattern.jpeg");
+  background-size: 250%;
+  height: 130px;
+  margin-bottom: 100px;
+}
+
+.title {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  position: 0 auto;
+}
+
+.content {
+  margin-top: 50px;
+}
+
+.nag {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.first {
+  background-color: mediumspringgreen;
+}
+
+.second {
+  background-color: lightcoral;
+}
+
+.third {
+  background-color: skyblue;
+}
+
+.price {font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
